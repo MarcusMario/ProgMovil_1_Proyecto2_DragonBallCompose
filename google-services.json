@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320754154959",
+    "project_id": "dragonballapp-817b1",
+    "storage_bucket": "dragonballapp-817b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320754154959:android:ba291f7c5bb737e06926ba",
+        "android_client_info": {
+          "package_name": "com.example.dragonballcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjeK5aBHwp71eNdQoAXuaprgiHrzginU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320754154959:android:5ccced07f965426f6926ba",
+        "android_client_info": {
+          "package_name": "com.example.dragonballxml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjeK5aBHwp71eNdQoAXuaprgiHrzginU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

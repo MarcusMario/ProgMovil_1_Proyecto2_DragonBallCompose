@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bola naranja -->
+    <path
+        android:fillColor="#FF8C00"
+        android:pathData="M54,10 C30,10 10,30 10,54 C10,78 30,98 54,98 C78,98 98,78 98,54 C98,30 78,10 54,10 Z"/>
+
+    <!-- Brillo superior izquierdo -->
+    <path
+        android:fillColor="#FFCC44"
+        android:pathData="M35,22 C42,16 52,14 54,14 C40,18 30,28 26,40 C22,36 28,28 35,22 Z"/>
+
+    <!-- Estrella de 4 puntas centro -->
+    <path
+        android:fillColor="#CC2200"
+        android:pathData="M54,38 L57,48 L67,48 L59,54 L62,64 L54,58 L46,64 L49,54 L41,48 L51,48 Z"/>
+
+</vector>

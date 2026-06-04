@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DragonBallCompose" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#0D0D0D</item>
+        <item name="android:statusBarColor">#1A1A1A</item>
+    </style>
+
+    <style name="Theme.DragonBallCompose.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0D0D0D</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_dragon_ball</item>
+        <item name="postSplashScreenTheme">@style/Theme.DragonBallCompose</item>
+    </style>
+</resources>
